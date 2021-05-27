@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyanezm
 - 👀 I’m interested in product management
-- 🌱 I’m currently learning how to build apps on iOS
+- 🌱 I’m currently learning how to build iOS apps
 - 💞️ I’m looking to collaborate on building new products
 - 📫 You can reach me at karina.yanez.m@gmail.com
 
